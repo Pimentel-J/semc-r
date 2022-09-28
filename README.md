@@ -29,9 +29,9 @@ Mobile network operator's customer data analysis. Objetive: Identify the reasons
 
 ## 2. Project Index
 
-1. [TP1 - Analysis of VPN Servers' Functioning & Solve the Scheduling (computing) Problem](./Part1//)
+1. [TP1 - Analysis of VPN Servers' Functioning & Solve the Scheduling (computing) Problem](./TP1//)
 
-2. [TP2 - Mobile Network Operator's Customer Data Analysis](./Part2//)
+2. [TP2 - Mobile Network Operator's Customer Data Analysis](./TP2//)
 
 > **Note**: almost all R comments are in portuguese
 
