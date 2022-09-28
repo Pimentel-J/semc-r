@@ -22,7 +22,7 @@
 ### Part I - Exploratory Data Analysis, Statistical Inference, Correlation and Regression
 Analysis of VPN Servers' Functioning & Performance Analysis of Heuristic Methods to Solve the Scheduling (computing) Problem.
 
-### Part II - Exploratory Data Analysis, Machine Learning Algorithms, Regression and Classification Problems
+### Part II - Exploratory Data Analysis, Regression and Classification Problems, Performance Analysis of Machine Learning Techniques
 Mobile network operator's customer data analysis. Objetive: Identify the reasons for increased customer loss.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
