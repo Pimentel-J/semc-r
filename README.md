@@ -38,11 +38,12 @@ Mobile network operator's customer data analysis. Objetive: Identify the reasons
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 3. Working Group
-| Authors  |
+
+| |
 |----------|
-| Pimentel |
-| Mota     |
 | Miranda  |
+| Mota     |
+| Pimentel |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
