@@ -23,7 +23,8 @@
 Analysis of VPN Servers' Functioning & Performance Analysis of Heuristic Methods to Solve the Scheduling (computing) Problem.
 
 ### Part II - Exploratory Data Analysis, Regression and Classification Problems, Performance Analysis of Machine Learning Techniques
-Mobile network operator's customer data analysis. Objetive: Identify the reasons for increased customer loss.
+Customer data analysis of a mobile network operator.
+Identification of possible reasons for customer dropouts and propose appropriate actions to solve the problem.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
